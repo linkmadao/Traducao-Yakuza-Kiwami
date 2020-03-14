@@ -1,0 +1,10 @@
+Brush macio: 30%
+Tamanho Brush: 60px
+Expansão: 2px
+Difusão: 4px
+Brush macio: 50%
+Tamanho Brush: 20px
+Contração: 3px
+Fonte: Fog Sans
+Cor do canal vermelho: #f0633e
+

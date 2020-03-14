@@ -1,0 +1,5 @@
+Brush macio: 66%
+Expansão: 3px
+Difusão: 2px
+Fonte: Fog Sans
+Cor do canal vermelho: #f0633e
