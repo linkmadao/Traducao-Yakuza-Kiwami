@@ -1,4 +1,4 @@
-# Traducao-YakuzaKiwami
+# Traducao Yakuza Kiwami
 Tradução do jogo Yakuza Kiwami
 
-Discord do grupo de tradução: https://discord.gg/7ZJmF9H
+Para maiores informações: Discord do grupo de tradução: https://discord.gg/7ZJmF9H
